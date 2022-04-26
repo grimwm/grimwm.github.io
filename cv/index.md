@@ -64,10 +64,12 @@
 * Designed, managed a team, and coded a Java+Guice Aerospike scanner to generate events on Kafka, Kinesis, or SQS
 * Designed and coded an event-driven Java+Guice profile graph deletion algorithm
 
-    Senior Software Engineer
-    Performance Engineering
-    Chicago, IL
-    March 2015 - December 2016
+```
+Senior Software Engineer
+Performance Engineering
+Chicago, IL
+March 2015 - December 2016
+```
 
 * Profiled and enhanced our data-driven identity services application.
 * Redesigned a Java batch process so it can handle 10-20x the traffic via Kafka.
