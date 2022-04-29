@@ -1,6 +1,6 @@
 # `$ whoami`
 
-    William Grim
+    William Grim, M.Sc.
     Greater St. Louis Area
     cv (at) williamgrim (dot) com
 
@@ -10,7 +10,7 @@
 
 | Category            |     |
 | ------------------- | --- |
-| Preferred Languages | C/C++, Java, Python |
+| Preferred Languages | C / C++, Java, Python |
 | Cloud Providers     | AWS, DigitalOcean   |
 | Technologies        | PostgreSQL, Redshift, Snowflake, EMR + Spark, Kafka, NATS Messaging, Kubernetes |
 | Platforms           | BSD, Linux, Mac OS, Windows |
