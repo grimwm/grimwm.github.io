@@ -47,7 +47,7 @@
 
     Principal Software Engineer
     Greater St. Louis Area (Remote)
-    November 2018 - April 2020
+    November 2018 - April 2021
 
 * Mentored company in software best practices and company’s broader goals.
 * Managed a team and implemented a new, high performance message bus
