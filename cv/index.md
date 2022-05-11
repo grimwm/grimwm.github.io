@@ -14,7 +14,7 @@
 | Cloud Providers     | AWS, DigitalOcean   |
 | Technologies        | PostgreSQL, Redshift, Snowflake, EMR + Spark, Kafka, NATS Messaging, Kubernetes |
 | Platforms           | BSD, Linux, Mac OS, Windows |
-| Foundations         | ML / AI, SaaS / Cloud Computing, Combinatorics and Graph Theory, Real Analysis, Linear Algebra |
+| Foundations         | ML / AI, SaaS / Cloud Computing, Operating System Design, Combinatorics and Graph Theory, Real Analysis, Linear Algebra |
 | Natural Languages   | English (native), French (Fluent) |
 
 ## `$ history`
