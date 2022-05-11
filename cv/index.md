@@ -6,8 +6,6 @@
 
 ---
 
-# `$ ls ${HOME}`
-
 | Category            |     |
 | ------------------- | --- |
 | Preferred Languages | C / C++, Java, Python |
@@ -15,7 +13,7 @@
 | Technologies        | PostgreSQL, Redshift, Snowflake, EMR + Spark, Kafka, NATS Messaging, Kubernetes |
 | Platforms           | BSD, Linux, Mac OS, Windows |
 | Foundations         | ML / AI, SaaS / Cloud Computing / Distributed Architectures, Operating System Design, Combinatorics and Graph Theory, Real Analysis, Linear Algebra, Algorithmic Design and Analyses |
-| Industry Experience | Finance, Video Games, Ad Tech, Cybersecurity |
+| Industry Experience | Finance, Gaming, Ad Tech, Cybersecurity |
 | Natural Languages   | English (native), French (Fluent) |
 
 # `$ history`
@@ -75,7 +73,7 @@ March 2015 - December 2016
 * Profiled and enhanced our data-driven identity services application.
 * Redesigned a Java batch process so it can handle 10-20x the traffic via Kafka.
 
-## ROBLOX
+## Roblox
 
     Senior Software Engineer
     Performance Engineering
