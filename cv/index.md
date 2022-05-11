@@ -112,9 +112,11 @@ March 2015 - December 2016
 
 # `$ cat education.txt`
 
-    May 2007: Southern Illinois University, Edwardsville, IL -- M.Sc., Computer Science
-    May 2005: Southern Illinois University, Edwardsville, IL -- B.Sc., Computer Science
-      with Minor in Mathematical Studies
+    Southern Illinois University
+    Edwardsville, IL
+    M.Sc., Computer Science, May 2007
+    B.Sc., Computer Science, May 2005
+    Minor in Mathematical Studies
 
 Additional coursework covered while employed full-time:
 
