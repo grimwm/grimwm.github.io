@@ -15,6 +15,7 @@
 | Technologies        | PostgreSQL, Redshift, Snowflake, EMR + Spark, Kafka, NATS Messaging, Kubernetes |
 | Platforms           | BSD, Linux, Mac OS, Windows |
 | Foundations         | ML / AI, SaaS / Cloud Computing, Operating System Design, Combinatorics and Graph Theory, Real Analysis, Linear Algebra |
+| Industry Experience | Finance, Video Games, Ad Tech, Cybersecurity |
 | Natural Languages   | English (native), French (Fluent) |
 
 ## `$ history`
