@@ -6,7 +6,7 @@
 
 ---
 
-## `$ ls ${HOME}`
+# `$ ls ${HOME}`
 
 | Category            |     |
 | ------------------- | --- |
@@ -18,9 +18,9 @@
 | Industry Experience | Finance, Video Games, Ad Tech, Cybersecurity |
 | Natural Languages   | English (native), French (Fluent) |
 
-## `$ history`
+# `$ history`
 
-### Monad
+## Monad
 
     Principal Software Engineer
     Greater St. Louis Area (Remote)
@@ -32,7 +32,7 @@
   * Snowflake
   * PostgreSQL 13
 
-### Sushi Finance
+## Sushi Finance
 
     Founder
     Greater St. Louis Area
@@ -44,7 +44,7 @@
 * Currently depends on a digital signal processing algorithm by John Ehlers,
   along with my own additional information for entrance/exit
 
-### Belvedere Trading
+## Belvedere Trading
 
     Principal Software Engineer
     Greater St. Louis Area (Remote)
@@ -55,7 +55,7 @@
   built around [NATS](https://nats.io/).
 * Designed and rewrote a Python-based service discovery service with much expanded capabilities.
 
-### Signal
+## Signal
 
     Principal Software Engineer
     Identity Management Solutions
@@ -75,7 +75,7 @@ March 2015 - December 2016
 * Profiled and enhanced our data-driven identity services application.
 * Redesigned a Java batch process so it can handle 10-20x the traffic via Kafka.
 
-### ROBLOX
+## ROBLOX
 
     Senior Software Engineer
     Performance Engineering
@@ -94,35 +94,33 @@ March 2015 - December 2016
   * Implemented proper crash dump reporting.
 * Rebuilt ROBLOX’s sound management engine using FMOD.
 
-### Morgan Stanley
+## Morgan Stanley
     IT Associate
     Commodities Electronic Trading
     Purchase, NY
     August 2007 - January 2013
 
-### Levi, Ray, and Shoupe, Inc.
+## Levi, Ray, and Shoupe, Inc.
     Software Developer Intern
     PensionGold
     Springfield, IL
     May 2001 - December 2004
 
-### Southern Illinois University
+## Southern Illinois University
     System Adminstrator
     Computer Science Department
     Edwardsville, IL
     March 2002 - May 2007
 
-## `$ cat continuing_education.txt`
+# `$ cat education.txt`
 
-* 2017: Three Machine Learning courses with Andrew Ng via Coursera, earning positive notes in each
-* Fall 2014: Introduction to Computer Graphics, UC BerkeleyX, covering transformations in
-  homogeneous coordinate systems, 3d OpenGL rendering, ray tracing, and global illumination models
-* Spring 2011: Real Analysis, City College of New York
-* Fall 2011: Ordinary Differential Equations, City College of New York
-* Fall 2011: Machine Learning, City College of New York
+    May 2007: Southern Illinois University, Edwardsville, IL -- M.Sc., Computer Science
+    May 2005: Southern Illinois University, Edwardsville, IL -- B.Sc., Computer Science
+      with Minor in Mathematical Studies
 
-## `$ cat education.txt`
+Additional coursework covered while employed full-time:
 
-* May 2007: Southern Illinois University, Edwardsville, IL -- M.Sc., Computer Science
-* May 2005: Southern Illinois University, Edwardsville, IL -- B.Sc., Computer Science
-  with Minor in Mathematical Studies
+* Machine Learning with Andrew Ng via Coursera
+* Introduction to Computer Graphics via UC BerkeleyX
+* Real Analysis via City College of New York
+* Ordinary Differential Equations via City College of New York
