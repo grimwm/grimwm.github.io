@@ -27,6 +27,7 @@
 * Crafted an entire data engineering pipeline for our Quants to get data into `Google BigQuery` using low-code techniques via `Airflow`.
 * Was a key contributor to a `Java Spring` application to push data from `Apache Pulsar` to `Google BigQuery`.
 
+<!--
 ## Internal.io
 
     Principal Software Engineer
@@ -34,12 +35,14 @@
     May 2022 - December 2022
 
 * Placeholder
+NOTE: The end date for Monad _SHOULD BE_ May 2022, but we are putting June for now.
+-->
 
 ## Monad
 
     Principal Software Engineer
     Greater St. Louis Area (Remote)
-    April 2021 - May 2022
+    April 2021 - June 2022
 
 * Improved transformation performance 50x by rewriting to use AWS `Lambda`, AWS `EMR`, and `Spark SQL` via `dbt`.
 * Scaled connectors handling hundreds of gigabytes of data at a time.
